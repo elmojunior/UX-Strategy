@@ -60,15 +60,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.66449955"
-     inkscape:cx="440.31395"
+     inkscape:cx="441.81884"
      inkscape:cy="443.03852"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1018"
+     inkscape:window-height="1022"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="30"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -87,6 +87,14 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-308.26772)">
+    <rect
+       style="opacity:0.994;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4287"
+       width="1050.8573"
+       height="742.5896"
+       x="1.5048919"
+       y="309.77261"
+       ry="2.316735" />
     <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -770,13 +778,13 @@
        sodipodi:linespacing="125%"
        id="text5055"
        y="571.46448"
-       x="1167.0699"
+       x="1176.3011"
        style="font-style:normal;font-weight:normal;font-size:44.64081573px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="571.46448"
-         x="1167.0699"
+         x="1176.3011"
          id="tspan5057"
-         sodipodi:role="line">Legend</tspan></text>
+         sodipodi:role="line">Labels</tspan></text>
     <g
        id="g5101"
        transform="matrix(0.52630184,0,0,0.52630184,-28.221921,322.26159)">

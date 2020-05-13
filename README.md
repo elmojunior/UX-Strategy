@@ -2,7 +2,7 @@
 
 Este é um modelo para elaboração de diagramas 360 View para UX Strategy.
 
-![360 View](http://elmojunior.com/elmojunior/wp-elmojunior/wp-content/uploads/2017/11/diagrama-360-view-em-svg-2.png)
+![360 View](https://raw.githubusercontent.com/elmojunior/UX-Strategy/9ebc2f0358c891401e8e874d83ef76a28040ce54/360View.svg)
 
 ## Dependências
 
